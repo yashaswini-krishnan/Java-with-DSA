@@ -61,6 +61,7 @@ public static void main(String args[]) {
 		//note: ""(double)-more that one char i.e, string
 		String b="abc";
 		System.out.println(b);
+		System.out.println("hello " + b);// '+' is used for concatenation 
 		
 		//4 Byte(-128 to 127)
 		byte oneByte= -128;
